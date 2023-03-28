@@ -6,15 +6,6 @@ A template for my projects.
 
 ## ToDo
 
-- [ ] Set `template` as Git upstream remote
-
-```sh
-git remote add upstream git@github.com:brycked/template.git
-git fetch upstream
-git rebase --onto TEMPLATE_COMMIT CURRENT_COMMIT main
-git push --force
-```
-
 - [ ] Find & replace `template` with the name of this repository
 - [ ] Find & replace the description with a proper one
 - [ ] Remove this section
