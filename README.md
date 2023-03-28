@@ -6,7 +6,7 @@ A template for my projects.
 
 ## ToDo
 
-- [ ] Set the template as git upstream remote
+- [ ] Set `template` as Git upstream remote
 
 ```sh
 git remote add upstream git@github.com:brycked/template.git
@@ -17,7 +17,7 @@ git push --force
 
 - [ ] Find & replace `template` with the name of this repository
 - [ ] Find & replace the description with a proper one
-- [ ] Remove this section from the README
+- [ ] Remove this section
 
 ## Usage
 
