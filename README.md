@@ -1,6 +1,6 @@
 # template
 
-[![license](https://img.shields.io/github/license/brycked/template)](LICENSE.md)
+[![license](https://custom-icon-badges.demolab.com/github/license/brycked/template?logo=law)](LICENSE.md)
 
 A template for my projects.
 
