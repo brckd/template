@@ -6,7 +6,8 @@ A template for my projects.
 
 ## ToDo
 
-- [ ] Find & replace `template` with the name of this repository
+- [ ] [Create](https://github.com/brycked/template/generate) a new repository from this template
+- [ ] Find & replace `template` with the name of the new repository
 - [ ] Find & replace the description with a proper one
 - [ ] Remove this section
 
